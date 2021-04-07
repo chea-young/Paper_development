@@ -3,8 +3,9 @@
 ### 참고 링크
 - https://wikidocs.net/15881 (sqlite3 이미지 삽입)
 - http://faculty.washington.edu/wlloyd/courses/tcss562/tutorials/TCSS562_f2019_tutorial_6.pdf (lambda에 이미지 삽입)
-
+-https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/ (모듈 에러시 레이어 생성 법)
 -https://ndb796.tistory.com/289 (AWS lambda와 s3연결)
+-https://m.blog.naver.com/demonic3540/221635831475(cloudwatchlog 연결)
 ### lambda에서 sqlite 사용
 - 최대 6-8시간까지 사용할 수 있지만 더 오래 유지 하려면 S3에 저장을 해야 한다. 
 
